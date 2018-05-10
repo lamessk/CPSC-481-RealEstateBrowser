@@ -4,6 +4,8 @@ by: Victor Duarte, Daniel Tyler Gillson, Shannon Tucker-Jones, Lamess Kharfan, S
 
 **Description:** A simple real estate browser which helps users to select a house in a location of their choice. Built to study human computer interaction and UI/UX development.
 
+**Final Report:** Includes entire Task-Centered System Design process, system requirements, prototyping information, heuristic evaluations and results, and final interface. 
+
 **Technologies:**
 * C#
 * Universal Windows Platform
